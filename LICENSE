@@ -659,3 +659,17 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+---
+
+ASSETS RESTRICTION NOTICE:
+
+The following files and directories are NOT covered by the MIT License and are
+restricted for use:
+
+- assets/ (all files in this directory)
+- Any image files, links, graphics, logos, or media files
+- Any proprietary content or branding materials
+
+These assets remain the exclusive property of CelloSerenity/the respective owner and may not be used,
+distributed, or modified without explicit written permission.
