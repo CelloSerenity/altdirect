@@ -662,14 +662,28 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 
 ---
 
-ASSETS RESTRICTION NOTICE:
+ASSETS, LOGO, AND BADGE LICENSE NOTICE
 
-The following files and directories are NOT covered by the MIT License and are
-restricted for use:
+Unless explicitly stated otherwise, the GNU Affero General Public License v3.0 (AGPLv3) applies only to the software source code in this repository.
 
-- assets/ (all files in this directory)
-- Any image files, links, graphics, logos, or media files
-- Any proprietary content or branding materials
+The following files and materials are not licensed under the AGPLv3 and are excluded from its terms:
 
-These assets remain the exclusive property of CelloSerenity/the respective owner and may not be used,
-distributed, or modified without explicit written permission.
+- assets/ (all files and subdirectories)
+- All logos, graphics, images, media files, and badge artwork
+- Any proprietary branding materials, including the name “AltDirect”
+
+These excluded materials are the exclusive property of CelloSerenity.
+
+Limited Permission Granted
+
+Permission is granted to use these materials solely for the purpose of linking to or referencing this project, including:
+- Embedding logos or badges in documentation, READMEs, or web pages
+- Resizing, recoloring, or adapting the logo or badge to create buttons or badges consistent with a site’s visual style
+
+Provided that:
+- Ownership and copyright remain with CelloSerenity
+- Use does not imply endorsement, affiliation, or sponsorship
+- The materials link directly to the official project site or repository
+- The materials are not used as primary branding for another project or product
+
+All other rights are reserved.
