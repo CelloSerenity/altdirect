@@ -1,4 +1,4 @@
-# Repository has been moved to [here.](https://github.com/stikstore/altdirect)
+# Repository has been moved to [here.](https://github.com/StikDebug/altdirect)
 
 # <img src="/assets/png/Logo_Blue.png?raw=true" alt="AltDirect" height="25"> AltDirect
 
